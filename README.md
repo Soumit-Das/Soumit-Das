@@ -13,6 +13,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumitdas41) 
+[![Facebook](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/100022097675884/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://Twitter.com/in/soumitdas41) 
 
 # 💻 Tech Stack:
