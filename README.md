@@ -7,6 +7,8 @@
 ### Aboutme
 - 🔭 I’m currently Studing on Masai School
 - 🌱 I’m currently learning Java
+- 👨‍💻 All my projects are available at ( https://soumit-das.github.io/ ) 
+- 📫 Email me at ( soumitdas500@gmail.com )
 
 
 ## 🌐 Socials:
