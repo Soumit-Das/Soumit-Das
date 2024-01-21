@@ -3,11 +3,11 @@
 <h1 align="center" dir="auto"><a id="user-content-hi--im-madhusudan-amoli" class="anchor" aria-hidden="true" href="#hi--im-madhusudan-amoli"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Soumit Das</h1>
 
 
-<img align="center" width=100% height=350px alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+<img align="center" width=100% height=350px alt="coding" src="![image](https://github.com/Soumit-Das/Soumit-Das/assets/113409975/6accc62e-9fa5-4312-b318-b8a1b7545c01)
+
 ">
 
 
-https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 <!-- **Soumit-Das/Soumit-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
