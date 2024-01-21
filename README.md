@@ -14,7 +14,8 @@
 
 <br>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Soumit-Das/Soumit-Das/assets/113409975/9243b813-d6c9-455b-8c75-6e140c583334
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Soumit-Das/Soumit-Das/assets/113409975/661a7344-cdf0-4b8d-842e-7a545a49aa18)
+
 
 ">
 
