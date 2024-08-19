@@ -82,7 +82,7 @@
 
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=replit,idea,eclipse,spring,git,github,postman,vscode,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=replit,idea,eclipse,spring,git,github,postman,vscode,docker,elasticsearch,gitlab,jenkins,kafka,rabbitmq,react,redis,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
   </a>
 </p>
 
