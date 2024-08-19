@@ -83,13 +83,11 @@
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=replit,idea,eclipse,spring,git,github,postman,vscode,docker,skecthup&amp;perline=9" style="max-width: 100%;">
-    <br>
-    <img src="https://skillicons.dev/icons?i=elasticsearch,gitlab,jenkins,kafka,rabbitmq,redis,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
   </a>
 </p>
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=elasticsearch,gitlab,jenkins,kafka,rabbitmq,redis,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=elasticsearch,gitlab,jenkins,kafka,rabbitmq,redis,vite,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
   </a>
 </p>
 
