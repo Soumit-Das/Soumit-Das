@@ -71,7 +71,7 @@
 <br>
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=java,py,flask,spring,hibernate,maven,mysql,mongodb,js,html,css,bootstrap&amp;perline=12" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=py,flask,spring,hibernate,maven,java,mysql,mongodb,js,html,css,bootstrap,react&amp;perline=12" style="max-width: 100%;">
    <!--https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim-->
   </a>
 </p>
@@ -82,7 +82,7 @@
 
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=replit,idea,eclipse,spring,git,github,postman,vscode,docker,elasticsearch,gitlab,jenkins,kafka,rabbitmq,react,redis,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=replit,idea,eclipse,spring,git,github,postman,vscode,docker,elasticsearch,gitlab,jenkins,kafka,rabbitmq,redis,netlify,skecthup&amp;perline=9" style="max-width: 100%;">
   </a>
 </p>
 
