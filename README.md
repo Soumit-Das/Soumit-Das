@@ -29,8 +29,7 @@
   - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
   - 📫 How to reach me **soumitdas500@gmail.com**
   - 💪🏼 Fav Quote: "First, Solve the problem. Then write the code".
-  - 🔭 I’m currently Studing on Masai School
-  - 👨🏽‍💻 I’m currently learning Java
+  - 👨🏽‍💻 I’m currently working at Inspironlabs pvt ltd company.
 
 </p>
 
